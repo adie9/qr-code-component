@@ -41,7 +41,7 @@ In this project, I learned to separate the element from the text it contains whe
 <!-- Add div for card container -->
   <div class="card">
 
-    <img id="qr-code" src="./images/image-qr-code.png">
+    <img id="qr-code" src="./images/image-qr-code.png" alt="QR Code">
     <h3>Improve your front-end<br> skills by building projects</h3>
     <p>Scan the QR code to visit Frontend<br> Mentor and take your coding skills to<br> the next level</p>
 
