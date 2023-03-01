@@ -60,5 +60,5 @@ In this project, I learned to separate the element from the text it contains whe
 ## Author
 
 - LinkedIn - [Adrian Guerra](https://www.linkedin.com/in/adrian-guerra-a210a4196/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adie9)
+- Frontend Mentor - [@adie9](https://www.frontendmentor.io/profile/adie9)
 
